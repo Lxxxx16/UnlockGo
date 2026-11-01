@@ -38,6 +38,7 @@ UnlockGo/
 │  └─ lock.png
 ├─ docs/                       # 项目文档和审计资料
 │  ├─ PROJECT_STRUCTURE.md
+│  ├─ TECHNICAL_DETAILS.md
 │  └─ i18n/
 │     ├─ chinese_strings.txt
 │     └─ i18n_entries.txt
